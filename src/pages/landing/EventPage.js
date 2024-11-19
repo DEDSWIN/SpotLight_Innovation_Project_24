@@ -112,7 +112,7 @@ function EventPage() {
                 ) : (
                   <>
                     <MdComputer />
-                    {meet[0] || "Online"}
+                    {"Online"}
                   </>
                 )}
               </h2>
@@ -212,7 +212,7 @@ function EventPage() {
               ) : (
                 <>
                   <MdComputer />
-                  {meet[0] || "Online"}
+                  {"Online"}
                 </>
               )}
             </h2>
